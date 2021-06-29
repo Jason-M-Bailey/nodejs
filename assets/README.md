@@ -1,9 +1,9 @@
-# something
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# typing stuff
+![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
 ## Description
 
-description of my project
+description section is fun
 
 ## Table of Contents 
 
@@ -29,25 +29,25 @@ npm i
 
 ## Usage
 
-be kind
+everything
 
 ## License
 
-Project is licensed by MIT license.
+Project is licensed by GPL 3.0 license.
   
 ## Contributing
 
-be curious
+be kind
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-npm test
+something test
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at testname@mail.com. You can find more of my work at [testname](https://github.com/testname/).
+If you have any questions about the repo, open an issue or contact me directly at mail@mail.com. You can find more of my work at [not sure](https://github.com/not sure/).
 
