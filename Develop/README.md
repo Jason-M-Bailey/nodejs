@@ -1,9 +1,9 @@
-# nada
-![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# something
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-no thanks
+description of my project
 
 ## Table of Contents 
 
@@ -24,30 +24,30 @@ no thanks
 To install necessary dependencies, run the following command:
 
 ```
-not sure
+npm i
 ```
 
 ## Usage
 
-everything
+be kind
 
 ## License
 
-Project is licensed by GPL 3.0 license.
+Project is licensed by MIT license.
   
 ## Contributing
 
-all of it
+be curious
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-still don't know
+npm test
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at test123@email.com. You can find more of my work at [test123](https://github.com/test123/).
+If you have any questions about the repo, open an issue or contact me directly at testname@mail.com. You can find more of my work at [testname](https://github.com/testname/).
 
