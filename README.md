@@ -2,6 +2,11 @@
 
 [Video of command line README generator](https://drive.google.com/file/d/1GhHg2c5HfK4vgsdQem-Ma5whwCYmWbt0/view)
 
+![09 Node JS Project 01](https://user-images.githubusercontent.com/23285473/123893824-1f7c6800-d92b-11eb-93f6-df4908ae0453.jpg)
+![09 Node JS Project 02](https://user-images.githubusercontent.com/23285473/123893832-21dec200-d92b-11eb-98b7-ce93aab0f425.jpg)
+![09 Node JS Project 03](https://user-images.githubusercontent.com/23285473/123893838-23a88580-d92b-11eb-8484-8373f3087cb3.jpg)
+
+
 ## Your Task
 
 Create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
