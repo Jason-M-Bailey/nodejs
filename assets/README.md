@@ -1,9 +1,9 @@
-# command line mastery
-![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# NBA Player Search
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-learning how to use the command line to store info
+Application to quickly search NBA players, displaying relevant stats and links to wikipedia and a gif.
 
 ## Table of Contents 
 
@@ -29,15 +29,15 @@ npm i
 
 ## Usage
 
-user needs to know about god
+This application is to learn more about NBA players.
 
 ## License
 
-Project is licensed by GPL 3.0 license.
+Project is licensed by MIT license.
   
 ## Contributing
 
-user needs to know literally everything
+Pull requests require 2 approvals.
 
 ## Tests
 
@@ -49,5 +49,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at jmb@mail.com. You can find more of my work at [jmb](https://github.com/jmb/).
+If you have any questions about the repo, open an issue or contact me directly at jmbailey816@gmail.com. You can find more of my work at [Jason-M-Bailey](https://github.com/Jason-M-Bailey/).
 
