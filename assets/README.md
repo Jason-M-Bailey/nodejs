@@ -1,9 +1,9 @@
-# typing stuff
+# command line mastery
 ![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
 ## Description
 
-description section is fun
+learning how to use the command line to store info
 
 ## Table of Contents 
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-everything
+user needs to know about god
 
 ## License
 
@@ -37,17 +37,17 @@ Project is licensed by GPL 3.0 license.
   
 ## Contributing
 
-be kind
+user needs to know literally everything
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-something test
+npm test
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at mail@mail.com. You can find more of my work at [not sure](https://github.com/not sure/).
+If you have any questions about the repo, open an issue or contact me directly at jmb@mail.com. You can find more of my work at [jmb](https://github.com/jmb/).
 
