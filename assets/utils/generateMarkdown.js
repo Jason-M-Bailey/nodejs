@@ -1,3 +1,4 @@
+// function that returns a license badge based on which license is passed in
 function renderLicenseBadge(license) {
   if (license !== "None") {
     return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
@@ -5,6 +6,7 @@ function renderLicenseBadge(license) {
   return "";
 }
 
+// function that returns the license link
 function renderLicenseLink(license) {
   if (license !== "None") {
     return `\n* [License](#license)\n`;
@@ -12,6 +14,7 @@ function renderLicenseLink(license) {
   return "";
 }
 
+// function that returns the license section of README
 function renderLicenseSection(license) {
   if (license !== "None") {
     return `## License
@@ -21,6 +24,7 @@ Project is licensed by ${license} license.`;
   return "";
 }
 
+// function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
@@ -78,4 +82,5 @@ If you have any questions about the repo, open an issue or contact me directly a
 `;
 }
 
+// export module so it can be used elsewhere
 module.exports = generateMarkdown;
