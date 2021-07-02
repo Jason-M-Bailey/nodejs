@@ -36,13 +36,11 @@ const questions = [
     type: 'input',
     name: 'installation',
     message: 'what command should be run to install dependencies:',
-    default: 'npm i',
   },
   {
     type: 'input',
     name: 'test',
     message: 'what command should be used to run tests:',
-    default: 'npm test',
   },
   {
     type: 'input',
@@ -62,11 +60,11 @@ function writeToFile(fileName, data) {
 }
 
 // function to initialize app
-function init() {
+function initialize() {
   inquirer.prompt(questions).then((inquirerResponses) => {
     console.log('Generating README...');
     writeToFile('README.md', generateMarkdown({ ...inquirerResponses }));
   });
 }
 
-init();
+initialize();
