@@ -24,6 +24,8 @@ Project is licensed by ${license} license.`;
   return "";
 }
 
+
+// layout design from https://www.makeareadme.com/
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
